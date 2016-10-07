@@ -1,2 +1,3 @@
 # Lume
-Lume, a simple PHP ORM
+Lume, a simple PHP ORM.
+
